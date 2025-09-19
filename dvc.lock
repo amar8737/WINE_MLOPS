@@ -1,0 +1,42 @@
+schema: '2.0'
+stages:
+  process_data:
+    cmd: python -m src.data_loader
+    deps:
+    - path: data/raw/wine.csv
+      hash: md5
+      md5: 03bf2c7a9b4264874353744a3b4d1de3
+      size: 11067
+    - path: src/data_loader.py
+      hash: md5
+      md5: c49d02eb06c8fbbb2f1a848d086dc693
+      size: 2851
+    outs:
+    - path: data/processed
+      hash: md5
+      md5: 466b33b9abc9dbc1840692383a8bc5f3.dir
+      size: 11772
+      nfiles: 2
+  train_model:
+    cmd: python -m src.trainer
+    deps:
+    - path: data/processed
+      hash: md5
+      md5: 466b33b9abc9dbc1840692383a8bc5f3.dir
+      size: 11772
+      nfiles: 2
+    - path: src/trainer.py
+      hash: md5
+      md5: 5969871ad23a0cc3fa429ea3aebd8834
+      size: 3040
+    params:
+      params.yaml:
+        train.max_iter: 20
+        train.model_type: LogisticRegression
+        train.random_state: 45
+        train.scaler: StandardScaler
+    outs:
+    - path: models/wine_model.pkl
+      hash: md5
+      md5: 5549cadd9f129c15ebe476fbb75c9241
+      size: 2353

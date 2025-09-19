@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Project/WINE_MLOPS/mlruns/145412965995636195/models/m-b0c98f30e41a424384f680d02c3da7e1/artifacts
+creation_timestamp: 1758248584215
+experiment_id: '145412965995636195'
+last_updated_timestamp: 1758248589603
+model_id: m-b0c98f30e41a424384f680d02c3da7e1
+model_type: null
+name: model
+source_run_id: 8eec096d195c41b7bb59d3fc8904273b
+status: 2
+status_message: null

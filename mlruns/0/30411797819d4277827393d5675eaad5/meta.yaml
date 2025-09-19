@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Project/WINE_MLOPS/mlruns/0/30411797819d4277827393d5675eaad5/artifacts
+end_time: 1758246326030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30411797819d4277827393d5675eaad5
+run_name: fearless-hare-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758246315032
+status: 3
+tags: []
+user_id: babua

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Project/WINE_MLOPS/mlruns/145412965995636195/8eec096d195c41b7bb59d3fc8904273b/artifacts
+end_time: 1758248589619
+entry_point_name: ''
+experiment_id: '145412965995636195'
+lifecycle_stage: active
+run_id: 8eec096d195c41b7bb59d3fc8904273b
+run_name: monumental-rat-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758248584081
+status: 3
+tags: []
+user_id: babua

@@ -1,0 +1,6 @@
+train:
+  model_type: LogisticRegression
+  scaler: StandardScaler
+  max_iter: 20
+  random_state: 45
+  C: .1 # Default value for regularization strength

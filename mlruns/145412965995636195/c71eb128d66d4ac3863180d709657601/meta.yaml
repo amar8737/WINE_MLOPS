@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/WINE_MLOPS/mlruns/145412965995636195/c71eb128d66d4ac3863180d709657601/artifacts
+deleted_time: 1758247930404
+end_time: 1758247861476
+entry_point_name: ''
+experiment_id: '145412965995636195'
+lifecycle_stage: deleted
+run_id: c71eb128d66d4ac3863180d709657601
+run_name: able-slug-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758247856169
+status: 3
+tags: []
+user_id: babua

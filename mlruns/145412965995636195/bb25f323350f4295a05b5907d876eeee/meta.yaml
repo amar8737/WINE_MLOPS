@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Project/WINE_MLOPS/mlruns/145412965995636195/bb25f323350f4295a05b5907d876eeee/artifacts
+end_time: 1758248129010
+entry_point_name: ''
+experiment_id: '145412965995636195'
+lifecycle_stage: active
+run_id: bb25f323350f4295a05b5907d876eeee
+run_name: marvelous-lark-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758248123832
+status: 3
+tags: []
+user_id: babua

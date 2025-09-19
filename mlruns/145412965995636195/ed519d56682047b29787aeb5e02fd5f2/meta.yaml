@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/WINE_MLOPS/mlruns/145412965995636195/ed519d56682047b29787aeb5e02fd5f2/artifacts
+deleted_time: 1758248603558
+end_time: 1758248089018
+entry_point_name: ''
+experiment_id: '145412965995636195'
+lifecycle_stage: deleted
+run_id: ed519d56682047b29787aeb5e02fd5f2
+run_name: useful-zebra-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758248088947
+status: 4
+tags: []
+user_id: babua

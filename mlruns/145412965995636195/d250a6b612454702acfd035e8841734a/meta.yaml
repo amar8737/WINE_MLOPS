@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Project/WINE_MLOPS/mlruns/145412965995636195/d250a6b612454702acfd035e8841734a/artifacts
+end_time: 1758249021027
+entry_point_name: ''
+experiment_id: '145412965995636195'
+lifecycle_stage: active
+run_id: d250a6b612454702acfd035e8841734a
+run_name: skillful-donkey-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758249015533
+status: 3
+tags: []
+user_id: babua

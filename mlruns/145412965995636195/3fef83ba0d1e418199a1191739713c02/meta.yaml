@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Project/WINE_MLOPS/mlruns/145412965995636195/3fef83ba0d1e418199a1191739713c02/artifacts
+end_time: 1758248172723
+entry_point_name: ''
+experiment_id: '145412965995636195'
+lifecycle_stage: active
+run_id: 3fef83ba0d1e418199a1191739713c02
+run_name: thundering-crow-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758248167440
+status: 3
+tags: []
+user_id: babua

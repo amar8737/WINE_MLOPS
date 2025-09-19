@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Project/WINE_MLOPS/mlruns/145412965995636195/6092df71bd2a4cd0bbea48830ae02a49/artifacts
+end_time: 1758248759823
+entry_point_name: ''
+experiment_id: '145412965995636195'
+lifecycle_stage: active
+run_id: 6092df71bd2a4cd0bbea48830ae02a49
+run_name: sneaky-frog-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758248754168
+status: 3
+tags: []
+user_id: babua

@@ -1,0 +1,20 @@
+stages:
+  process_data:
+    cmd: python -m src.data_loader
+    deps:
+    - data/raw/wine.csv
+    - src/data_loader.py
+    outs:
+    - data/processed
+  train_model:
+    cmd: python -m src.trainer
+    deps:
+    - data/processed
+    - src/trainer.py
+    params:
+    - train.max_iter
+    - train.model_type
+    - train.random_state
+    - train.scaler
+    outs:
+    - models/wine_model.pkl

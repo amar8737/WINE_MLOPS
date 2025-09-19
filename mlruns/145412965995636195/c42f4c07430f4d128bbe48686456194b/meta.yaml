@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/WINE_MLOPS/mlruns/145412965995636195/c42f4c07430f4d128bbe48686456194b/artifacts
+deleted_time: 1758247930404
+end_time: 1758246964019
+entry_point_name: ''
+experiment_id: '145412965995636195'
+lifecycle_stage: deleted
+run_id: c42f4c07430f4d128bbe48686456194b
+run_name: glamorous-finch-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758246958496
+status: 3
+tags: []
+user_id: babua

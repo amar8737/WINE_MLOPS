@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Project/WINE_MLOPS/mlruns/145412965995636195/0ee55eca6fa044948eba1ce489f5202d/artifacts
+end_time: 1758249000196
+entry_point_name: ''
+experiment_id: '145412965995636195'
+lifecycle_stage: active
+run_id: 0ee55eca6fa044948eba1ce489f5202d
+run_name: resilient-duck-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758248994351
+status: 3
+tags: []
+user_id: babua

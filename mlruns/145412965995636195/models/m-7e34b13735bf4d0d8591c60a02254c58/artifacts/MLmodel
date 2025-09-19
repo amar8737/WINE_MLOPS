@@ -1,0 +1,22 @@
+artifact_path: file:///D:/Project/WINE_MLOPS/mlruns/145412965995636195/models/m-7e34b13735bf4d0d8591c60a02254c58/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-7e34b13735bf4d0d8591c60a02254c58
+model_size_bytes: 1951
+model_uuid: m-7e34b13735bf4d0d8591c60a02254c58
+prompts: null
+run_id: c42f4c07430f4d128bbe48686456194b
+utc_time_created: '2025-09-19 01:55:58.663910'

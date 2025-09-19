@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project/WINE_MLOPS/mlruns/145412965995636195/ace9b9ebb06e45d6a942d64e8eb756b3/artifacts
+deleted_time: 1758247930403
+end_time: 1758247649402
+entry_point_name: ''
+experiment_id: '145412965995636195'
+lifecycle_stage: deleted
+run_id: ace9b9ebb06e45d6a942d64e8eb756b3
+run_name: amusing-snake-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758247644091
+status: 3
+tags: []
+user_id: babua
